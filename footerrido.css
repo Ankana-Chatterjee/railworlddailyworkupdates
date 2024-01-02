@@ -1,0 +1,12 @@
+.card-deck {
+    display: flex;
+      justify-content: center;
+      
+    
+  }
+
+  .card {
+    width: 300px; /* Adjust the width as needed */
+    border: 0px #fff;
+    
+  }
